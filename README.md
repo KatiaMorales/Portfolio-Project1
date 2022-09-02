@@ -3,6 +3,8 @@ The objective of this project was to find different profiles of entrepreneurs ba
 
 ## Project files 👨‍💻
 Presentación_FINAL.pptx -> File presented to the client.
+
+
 Entregable_FINAL.xlsm -> Important to check.
 
 ## Software used 💻
